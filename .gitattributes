@@ -1,0 +1,4 @@
+data/Database_Soccer filter=lfs diff=lfs merge=lfs -text
+data/Database_Soccer/* filter=lfs diff=lfs merge=lfs -text
+data/Database_Soccer/Match.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
